@@ -1,9 +1,9 @@
-package com.ygz;
+package com.hhq;
 
-import org.ygz.framework.ioc.context.ApplicationContext;
-import org.ygz.framework.ioc.context.ClassPathXmlApplicationContext;
+import org.hhq.framework.ioc.context.ApplicationContext;
+import org.hhq.framework.ioc.context.ClassPathXmlApplicationContext;
 
-import com.ygz.service.PaperService;
+import com.hhq.service.PaperService;
 
 public class Main {
     /**

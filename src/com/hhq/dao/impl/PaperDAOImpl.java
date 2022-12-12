@@ -1,8 +1,8 @@
-package com.ygz.dao.impl;
+package com.hhq.dao.impl;
 
-import org.ygz.framework.ioc.annoation.Repository;
+import org.hhq.framework.ioc.annoation.Repository;
 
-import com.ygz.dao.PaperDAO;
+import com.hhq.dao.PaperDAO;
 
 @Repository
 public class PaperDAOImpl implements PaperDAO {

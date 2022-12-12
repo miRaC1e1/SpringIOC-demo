@@ -1,4 +1,4 @@
-package org.ygz.framework.ioc.xml;
+package org.hhq.framework.ioc.xml;
 
 import java.io.File;
 import java.io.FileInputStream;

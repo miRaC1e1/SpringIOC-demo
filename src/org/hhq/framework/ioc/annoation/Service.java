@@ -1,4 +1,4 @@
-package org.ygz.framework.ioc.annoation;
+package org.hhq.framework.ioc.annoation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
@@ -7,6 +7,6 @@ import java.lang.annotation.Target;
 
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)
-public @interface Repository {
+public @interface Service {
 	String value() default "";
 }

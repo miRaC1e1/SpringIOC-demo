@@ -1,4 +1,4 @@
-package org.ygz.framework.ioc.context;
+package org.hhq.framework.ioc.context;
 
 public interface ApplicationContext {
 	Object getBean(String name);

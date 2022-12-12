@@ -1,6 +1,6 @@
-package com.ygz.service;
+package com.hhq.service;
 
-import com.ygz.dao.PaperDAO;
+import com.hhq.dao.PaperDAO;
 
 public interface PaperService {
 

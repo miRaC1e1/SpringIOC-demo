@@ -1,10 +1,10 @@
-package com.ygz.service.impl;
+package com.hhq.service.impl;
 
-import org.ygz.framework.ioc.annoation.Autowired;
-import org.ygz.framework.ioc.annoation.Service;
+import org.hhq.framework.ioc.annoation.Autowired;
+import org.hhq.framework.ioc.annoation.Service;
 
-import com.ygz.dao.PaperDAO;
-import com.ygz.service.PaperService;
+import com.hhq.dao.PaperDAO;
+import com.hhq.service.PaperService;
 
 @Service("service")
 public class PaperServiceImpl implements PaperService {

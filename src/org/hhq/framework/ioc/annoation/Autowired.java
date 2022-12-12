@@ -1,4 +1,4 @@
-package org.ygz.framework.ioc.annoation;
+package org.hhq.framework.ioc.annoation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

@@ -1,4 +1,4 @@
-package org.ygz.framework.ioc.context;
+package org.hhq.framework.ioc.context;
 
 import java.io.File;
 import java.io.FileFilter;
@@ -10,10 +10,10 @@ import java.util.List;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
-import org.ygz.framework.ioc.annoation.Autowired;
-import org.ygz.framework.ioc.annoation.Repository;
-import org.ygz.framework.ioc.annoation.Service;
-import org.ygz.framework.ioc.xml.BeanXMLReaderUtil;
+import org.hhq.framework.ioc.annoation.Autowired;
+import org.hhq.framework.ioc.annoation.Repository;
+import org.hhq.framework.ioc.xml.BeanXMLReaderUtil;
+import org.hhq.framework.ioc.annoation.Service;
 
 public class ClassPathXmlApplicationContext implements ApplicationContext {
 	
